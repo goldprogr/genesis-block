@@ -1,4 +1,5 @@
 ## Genesis Block Proof of Work for multiple Hash Algorithms.
+This to create new block genesis block 
 
 >> Node.js version --> https://github.com/nasa8x/node-genesis-block
 
